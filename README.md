@@ -10,6 +10,22 @@ Una alternativa moderna, ligera y rápida a HolyLyrics, FreeShow y EasyWorship. 
 
 ---
 
+## ☕ Apoya el proyecto
+
+OBSBible es y seguirá siendo **100 % gratuito y de código abierto**. Lo desarrollo en mi tiempo libre para que cualquier iglesia, sin importar su tamaño o presupuesto, pueda tener un sistema de proyección profesional.
+
+Si el programa te sirve en tu iglesia o ministerio y quieres apoyar su desarrollo, puedes hacer una donación voluntaria por PayPal. Nunca se bloqueará ninguna función por no donar.
+
+Tu aporte ayuda a:
+
+- Dedicar más tiempo a corregir errores y agregar funciones nuevas.
+- Mantener el proyecto actualizado con nuevas versiones de OBS y Windows.
+- Cubrir, a futuro, una **firma digital de código** para que Windows deje de mostrar avisos de seguridad al abrir el programa.
+
+[![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LesterOsorio21)
+
+¡Gracias por usar OBSBible y por apoyar el software libre! 🙏
+
 ## Características
 
 - **Biblia:** búsqueda por referencia (`Juan 3:16`, `Romanos 8`) y por texto, favoritos, historial y múltiples versiones.
